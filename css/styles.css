@@ -29,7 +29,7 @@ body {
     font-size: 26px;
     letter-spacing: 0.03em;
     color: #212121;
-    line-height: 1.9;
+    line-height: 0.83;
 }
 
 .web {
@@ -40,7 +40,7 @@ body {
     font-family: 'Roboto';
     font-weight: 500;
     font-size: 14px;
-    line-height: 1.14;
+    line-height: 0.87;
     letter-spacing: 0.02em;
 }
 
@@ -49,7 +49,7 @@ body {
     font-family: 'Roboto';
     font-weight: 500;
     font-size: 14px;
-    line-height: 1.14;
+    line-height: 0.87;
     letter-spacing: 0.02em;
 }
 
@@ -60,7 +60,7 @@ body {
     font-family: 'Roboto';
     font-weight: 500;
     font-size: 16px;
-    line-height: 1.6;
+    line-height: 0.61;
     text-align: center;
     letter-spacing: 0.03em;
     width: 121px;
@@ -73,13 +73,13 @@ ul {
 
 .header3 {
     font-size: 18px;
-    line-height: 2;
+    line-height: 0.53;
     letter-spacing: 0.06em;
 }
 
 .paragraph {
     font-size: 16px;
-    line-height: 1.87;
+    line-height: 0.53;
     letter-spacing: 0.03em;
     color: #757575;
 }
@@ -92,7 +92,7 @@ ul {
 .logo-footer {
     font-family: 'Raleway';
     font-size: 26px;
-    line-height: 1.19;
+    line-height: 0.83;
     /* identical to box height */
     letter-spacing: 0.03em;
 }
@@ -101,7 +101,7 @@ ul {
     text-decoration: none;
     font-family: 'Roboto';
     font-size: 14px;
-    line-height: 1.7;
+    line-height: 0.58;
     letter-spacing: 0.03em;
     color: #fff;
 }
@@ -109,7 +109,7 @@ ul {
 .email {
     font-family: 'Roboto';
     font-size: 14px;
-    line-height: 1.7;
+    line-height: 0.58;
     letter-spacing: 0.03em;
     text-decoration-line: underline;
     color: rgba(255, 255, 255, 0.6);
@@ -118,7 +118,7 @@ ul {
 .tel {
     font-family: 'Roboto';
     font-size: 14px;
-    line-height: 1.7;
+    line-height: 0.58;
     letter-spacing: 0.03em;
     color: rgba(255, 255, 255, 0.6);
 }
@@ -128,7 +128,7 @@ ul {
     height: 50px;
     font-family: 'Roboto';
     font-size: 16px;
-    line-height: 1.87;
+    line-height: 0.53;
     text-align: center;
     letter-spacing: 0.06em;
     color: #ffffff;
@@ -143,7 +143,7 @@ ul {
     font-family: 'Roboto';
     font-weight: 900;
     font-size: 44px;
-    line-height: 1.36;
+    line-height: 0.73;
     text-align: center;
     letter-spacing: 0.06em;
     text-transform: uppercase;
@@ -158,21 +158,21 @@ ul {
 .header3-index {
     font-family: 'Roboto';
     font-size: 14px;
-    line-height: 1.14;
+    line-height: 0.87;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 
 .paragraph-index {
     font-size: 14px;
-    line-height: 1.71;
+    line-height: 0.58;
     letter-spacing: 0.03em;
     color: #757575;
 }
 
 .header2-index {
     font-size: 36px;
-    line-height: 1.16;
+    line-height: 0.85;
     text-align: center;
     letter-spacing: 0.03em;
 }
@@ -184,14 +184,14 @@ ul {
 .header3-team {
     font-weight: 500;
     font-size: 16px;
-    line-height: 1.18;
+    line-height: 0.84;
     text-align: center;
     letter-spacing: 0.03em;
 }
 
 .paragraph-team {
     font-size: 16px;
-    line-height: 1.18;
+    line-height: 0.84;
     text-align: center;
     letter-spacing: 0.03em;
     color: #757575;
